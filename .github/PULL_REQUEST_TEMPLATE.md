@@ -15,3 +15,4 @@ Add Resource(s) | Remove Resource(s) | Add info | Improve Repo
 - [ ] Included author(s) if appropriate
 - [ ] Lists are in alphabetical order
 - [ ] Needed indications added (PDF, access notes, under construction)
+- [ ] 
